@@ -19,7 +19,7 @@
 - On Windows:
   filename.exe
 
-  ## How to use
+## How to use
 
   1. First, you enter an initial balance to open your bank account.
   2. Then a menu will show up with options:
