@@ -30,6 +30,6 @@
 
   You type the number of the option you want and hit enter.
   The program checks for errors like:
-  Trying to deposit negative money
-  Withdrawing more than you have
+  Trying to deposit negative money, 
+  Withdrawing more than you have, 
   Using the account after it’s closed
