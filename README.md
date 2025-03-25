@@ -19,17 +19,17 @@
 - On Windows:
   filename.exe
 
-  ## How It Works
+  ## How to use
 
-- First, you enter an initial balance to open your bank account.
-- Then a menu will show up with options:
-- Deposit money
-- Withdraw money
-- Close your account
-- Exit the program
+  1. First, you enter an initial balance to open your bank account.
+  2. Then a menu will show up with options:
+  3. Deposit money
+  4. Withdraw money
+  5. Close your account
+  6. Exit the program
 
-- You type the number of the option you want and hit enter.
-- The program checks for errors like:
-- Trying to deposit negative money
-- Withdrawing more than you have
-- Using the account after it’s closed
+  You type the number of the option you want and hit enter.
+  The program checks for errors like:
+  Trying to deposit negative money
+  Withdrawing more than you have
+  Using the account after it’s closed
